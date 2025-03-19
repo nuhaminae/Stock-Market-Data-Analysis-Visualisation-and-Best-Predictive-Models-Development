@@ -1,0 +1,54 @@
+#List of important pips and Libraries 
+
+
+****pips****
+!pip install yfinance
+!pip install pandas
+!pip install numpy
+!pip install matplotlib
+!pip install seaborn
+!pip install holidays
+!pip install statsmodels
+!pip install scikit-learn
+!pip install pmdarima
+!pip install tensorflow
+!pip install keras-tuner
+!pip install keras
+!pip install prophet
+!pip install dash
+!pip install dash-bootstrap-components
+!pip install dash-core-components
+!pip install dash-html-components
+!pip install plotly
+
+
+****Libraries****
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+import matplotlib.dates as mdates
+import holidays
+import datetime
+import pandas.tseries.offsets
+import copy
+import warnings
+import statsmodels
+import sklearn.metrics
+import math
+import pmdarima
+import sklearn.preprocessing
+import keras
+import keras_tuner
+import tensorflow as tf
+import prophet
+import logging
+import dash
+import dash_bootstrap_components as dbc
+import dash_core_components as dcc
+import dash_html_components as html
+import plotly.express as px
+import plotly.tools as tls
+import plotly.graph_objects as go
+import plotly.io as pio
+import random
+import os
