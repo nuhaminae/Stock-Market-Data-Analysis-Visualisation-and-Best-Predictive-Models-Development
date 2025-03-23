@@ -1,10 +1,8 @@
 # Stock Market Data Analysis Visualisation and Best Predictive Models Development
 The goal of the project was to develop a machine learning model capable of accurately predicting stock closing prices. This was achieved by collecting stock data from Yahoo Finance's API for four selected stocks—Apple (AAPL), Amazon (AMZN), Google (GOOGL), and Microsoft (MSFT)—across short, medium, and long time ranges. The data underwent thorough cleaning, feature engineering, and exploratory data analysis to prepare it for predictive modelling. Three models—ARIMA, LSTM, and Prophet—were evaluated, with LSTM emerging as the optimal model due to its balance of accuracy and computational efficiency. Key findings include strong positive correlations among stocks, inverse relationships between traded volumes and closing prices, and the successful enhancement of prediction accuracy through engineered features like volatility and moving averages. The results showcase the resilience of the stock market and the importance of leveraging historical trends for robust forecasting.
 
-# ****************************************************************************
-Check requirements.txt for list of dependencies (libraries used in the project)
 
-# ****************************************************************************
+Check requirements.txt for list of dependencies (libraries used in the project)
 
 # *There are two ways to run the code sucessfully*
 # *1. To get the closing price prediction of the time when the code was written:*
